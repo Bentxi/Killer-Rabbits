@@ -1,0 +1,56 @@
+.boton:hover {
+    background-image: none;
+    -unity-font-definition: url('project://database/Assets/Images/13185-fontps.otf?fileID=12800000&guid=b7d6ecdfee3773f4da8559a7418e4a85&type=3#13185-fontps');
+    color: rgb(102, 194, 134);
+    border-left-color: rgb(102, 194, 134);
+    border-right-color: rgb(102, 194, 134);
+    border-top-color: rgb(102, 194, 134);
+    border-bottom-color: rgb(102, 194, 134);
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.boton {
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0);
+    width: 62%;
+    align-items: auto;
+    align-self: flex-start;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    -unity-font-style: bold;
+    background-image: none;
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    -unity-font-definition: url('project://database/Assets/Images/13185-fontps.otf?fileID=12800000&guid=b7d6ecdfee3773f4da8559a7418e4a85&type=3#13185-fontps');
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+}
+
+.boton2:hover {
+    background-image: url("project://database/Assets/Images/pngegg%20-%20hover[Imagen].png?fileID=2800000&guid=77dbda23e09ac1945b2a1f1ec4037891&type=3#pngegg - hover[Imagen]");
+}
+
+.boton2 {
+    background-image: url('project://database/Assets/Images/pngegg.png?fileID=2800000&guid=e4783a553d5347d44bcee3d1d48ce4c4&type=3#pngegg');
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+}

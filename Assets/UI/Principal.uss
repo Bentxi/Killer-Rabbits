@@ -1,0 +1,42 @@
+.boton:hover {
+    background-image: none;
+    -unity-font-definition: url("project://database/Assets/Images/13185-fontps.otf?fileID=12800000&guid=b7d6ecdfee3773f4da8559a7418e4a85&type=3#13185-fontps");
+    color: rgb(102, 194, 134);
+    border-left-color: rgb(102, 194, 134);
+    border-right-color: rgb(102, 194, 134);
+    border-top-color: rgb(102, 194, 134);
+    border-bottom-color: rgb(102, 194, 134);
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.boton {
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    width: 62%;
+    align-items: auto;
+    align-self: flex-start;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    -unity-font-style: bold;
+    background-image: none;
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    -unity-font-definition: url("project://database/Assets/Images/13185-fontps.otf?fileID=12800000&guid=b7d6ecdfee3773f4da8559a7418e4a85&type=3#13185-fontps");
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+}
